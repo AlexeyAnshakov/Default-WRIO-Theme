@@ -99,13 +99,15 @@ article{text-align:justify}
 .callout{background-color:#ecf3fa;border-left:3px solid #d0e2f2;margin:4px 0 12px;padding:8px 16px}
     .callout h5{color:#428bca;margin:10px 0;font-weight:bold}
     .callout h6{color:#b6c7d6;margin:10px 0}
+.success{background-color:#f1fbed;border-color:#d6e9c6}
+    .success h5{color:#3c763d}
+.warning{background-color:#fcf8f2;border-color:#fbead3}
+    .warning h5,.warning a{color:#f0ad4e}
+.danger{background-color:#fbf5f5;border-color:#eedbdb}
+    .danger h5,.danger a{color:#a94442}
 figcaption.callout{margin:4px 0}
 .figure-details{background-color:#f8f8f8;border-color:#e3e3e3}
     .figure-details h5,.figure-details a{color:#757575}
-.danger{background-color:#fbf5f5;border-color:#eedbdb}
-    .danger h5,.danger a{color:#a94442}
-.warning{background-color:#fcf8f2;border-color:#fbead3}
-    .warning h5,.warning a{color:#f0ad4e}
 /* END callout */
 
 /* menu */
